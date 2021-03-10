@@ -2,8 +2,8 @@
 ### I am a BugBounty Hunter, Front-End WebDeveloper and CyberSec Enthusiant
 
 ### Connect with me :
-[LinkedIn](https://linkedin.com/in/burhan-chhotaudepur)
-[Instagram](https://instagram.com/burhan__xd)
+[LinkedIn](https://linkedin.com/in/burhan-chhotaudepur) - 
+[Instagram](https://instagram.com/burhan__xd) - 
 [Twitter](https://twitter.com/burhan__xd)
   
 ### Technologies I use: 
