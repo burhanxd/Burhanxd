@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there; I am Burhan Chhotaudepur
+### I am a BugBounty Hunter, Front-End WebDeveloper and CyberSec Enthusiant
 
-<!--
-**burhanxd/Burhanxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me :
+[LinkedIn](https://linkedin.com/in/burhan-chhotaudepur)
+[Instagram](https://instagram.com/burhan__xd)
+[Twitter](https://twitter.com/burhan__xd)
+  
+### Technologies I use: 
 
-Here are some ideas to get you started:
+Html, Css, JavaScript, C, C++, GO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=burhanxd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
