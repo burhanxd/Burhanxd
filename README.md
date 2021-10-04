@@ -1,5 +1,6 @@
 ### Hi there; I am Burhan Chhotaudepur
-### I am a BugBounty Hunter, WebDev and CyberSec Enthusiant
+### I am a BugBounty Hunter, WebDev
+~ Wanna be redteamer
 
 ### Connect with me :
 [LinkedIn](https://linkedin.com/in/burhan-chhotaudepur) - 
