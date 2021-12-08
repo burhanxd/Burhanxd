@@ -1,5 +1,5 @@
 ### Hi there; I am Burhan Chhotaudepur
-### I am a BugBounty Hunter, WebDev
+### I am a BugBounty Hunter
 ~ Wanna be redteamer
 
 ### Connect with me :
