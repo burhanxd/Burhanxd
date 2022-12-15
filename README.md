@@ -1,6 +1,6 @@
 ### Hi there; I am Burhan Chhotaudepur
 ### I am a BugBounty Hunter and a Pentester
-~ Wanna be redteamer
+~ Wanna be redteamer and appsec engineer
 
 ### Connect with me :
 [LinkedIn](https://linkedin.com/in/burhan-chhotaudepur) - 
